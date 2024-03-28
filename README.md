@@ -7,10 +7,12 @@ This landing page design showcases the features and benefits of the Controller p
 ## Contents
 `Controller.fig`: figma file
 <br>
-`preview`: sample image of the file
+`Controller.png`: sample image of the file
+<br>
+`README.md`: Information regarding the Repository
 
 ## Preview
-![Controller Landing Page Preview](preview.png)
+![Controller Landing Page Preview](https://github.com/SANJAYSS-SRM-26/Gaming-Controller-Page-Figma/blob/main/Controller.png)
 
 ## How to Use
 To view and edit the design files, you'll need to use Figma. Follow these steps:
@@ -20,4 +22,4 @@ To view and edit the design files, you'll need to use Figma. Follow these steps:
 4. **Export Assets**: Export any assets or components needed for development.
 
 ## Acknowledgments
-This design was created for educational purposes as part of a Figma design with reference to Nikhil Pawar(Youtube).
+This design was created for Learning purpose as part of a Figma design with reference to Nikhil Pawar(Youtube).
